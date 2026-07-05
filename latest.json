@@ -1,8 +1,14 @@
 {
-  "versionCode": 267,
-  "versionName": "2.67",
+  "versionCode": 269,
+  "versionName": "2.69",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.67/app-debug.apk",
-  "sha256": "7b717cef37a2813d9e92b2562c5a8d570b090f5f6850390140f073ce28a314a0",
-  "sizeBytes": 0
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.69/app-debug.apk",
+  "sha256": "d2e5e98481d096d8a589a53b1a1d104536be1e34087a25cb4ad4b31f051d5258",
+  "sizeBytes": 40161076
+  "changelog": [
+    "新增深色模式",
+    "修复账号不存在却自动保存无法删除的错误",
+    "修复虚圈一键3次闯关中途战败后就无法继续的错误",
+    "补全人物头像显示"
+  ]
 }

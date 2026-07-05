@@ -1,14 +1,15 @@
 {
-  "versionCode": 271,
-  "versionName": "2.71",
+  "versionCode": 275,
+  "versionName": "2.75",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.71/app-debug.apk",
-  "sha256": "67c6a8e5f53bc727a9c45b915e1cbb0f50e9ad8edac8267faa6d65d6f73e6b88",
-  "sizeBytes": 40167327,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.75/app-debug.apk",
+  "sha256": "7d62f0eb32e65926aeb8ed18a9a83dea6efddef72ef493baea4a1bd03dd2243a",
+  "sizeBytes": 44312145,
   "changelog": [
     "新增深色模式",
     "修复账号不存在却自动保存无法删除的错误",
     "修复虚圈一键3次闯关中途战败后就无法继续的错误",
-    "补全缺失S/A/B/C人物头像显示"
+    "补全缺失S/A/B/C人物头像显示",
+    "新增对死神Dream的支持（暂时只支持洗属性功能）"
   ]
 }

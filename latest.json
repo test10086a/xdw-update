@@ -1,14 +1,15 @@
 {
-  "versionCode": 279,
-  "versionName": "2.79",
+  "versionCode": 291,
+  "versionName": "2.91",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.79/app-debug.apk",
-  "sha256": "f476da0adf9cd0ae2d2779110f05a7134b08f001f20450e980ad03d587240e76",
-  "sizeBytes": 44322570,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.91/app-debug.apk",
+  "sha256": "c783dbfa30a0633aa57d2a1de12a328fbd935209e430547df44b891de1bd76c9",
+  "sizeBytes": 44618269,
   "changelog": [
-    "新增深色模式",
-    "修复账号不存在却自动保存无法删除的错误",
-    "修复虚圈一键3次闯关中途战败后就无法继续的错误",
-    "补全缺失S/A/B/C人物头像显示",
+    "现已经添加绝大部分日常所需功能",
+    "如有bug请在脚本群1016141364反馈",
+    "个别功能页面ui，功能逻辑/按钮都还需要优化",
+    "冒险托管功能还在准备中，即将上线",
+    "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "versionCode": 304,
-  "versionName": "3.04",
+  "versionCode": 312,
+  "versionName": "3.12",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.04/app-debug.apk",
-  "sha256": "f67bf9e2092c174846b6a99f784af97d55c2e594fe11c44e237e422705ea7a5f",
-  "sizeBytes": 44710800,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/V3.12/app-debug.apk",
+  "sha256": "364b0e46c8edcb7c0a8f9777d218136c63f1f9eb007f0ddd8bac9341205ea13a",
+  "sizeBytes": 44786716,
   "changelog": [
-    "现已经添加绝大部分日常所需功能",
+    "新增4v4投注，修复寻宝消耗元宝统计异常",
     "如有bug请在脚本群1016141364反馈",
-    "个别功能页面ui，功能逻辑/按钮都还需要优化",
+    "目前脚本只缺鬼道和冒险功能",
     "冒险托管功能还在准备中，即将上线",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
   ]

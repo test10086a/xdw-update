@@ -1,12 +1,13 @@
 {
-  "versionCode": 320,
-  "versionName": "3.20",
+  "versionCode": 321,
+  "versionName": "3.21",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.20/app-debug.apk",
-  "sha256": "c4025cf55b00d2507b4156ac7b89395c4a54cc7d3adfc4f355aa010507422e16",
-  "sizeBytes": 44878883,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.21/app-debug.apk",
+  "sha256": "7a814fc2d602ea1661c581669ff059f5b7995c909bb7f3e3729fa5342a83be0e",
+  "sizeBytes": 44990668,
   "changelog": [
     "新增冒险托管",
+    "补全冒险小关卡头像显示",
     "如有bug请在脚本群1016141364反馈",
     "目前脚本只缺鬼道功能",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"

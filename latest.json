@@ -1,10 +1,10 @@
 {
-  "versionCode": 291,
-  "versionName": "2.91",
+  "versionCode": 304,
+  "versionName": "3.04",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v2.91/app-debug.apk",
-  "sha256": "c783dbfa30a0633aa57d2a1de12a328fbd935209e430547df44b891de1bd76c9",
-  "sizeBytes": 44618269,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.04/app-debug.apk",
+  "sha256": "f67bf9e2092c174846b6a99f784af97d55c2e594fe11c44e237e422705ea7a5f",
+  "sizeBytes": 44710800,
   "changelog": [
     "现已经添加绝大部分日常所需功能",
     "如有bug请在脚本群1016141364反馈",

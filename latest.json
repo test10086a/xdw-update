@@ -1,13 +1,14 @@
 {
-  "versionCode": 321,
-  "versionName": "3.21",
+  "versionCode": 322,
+  "versionName": "3.22",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.21/app-debug.apk",
-  "sha256": "7a814fc2d602ea1661c581669ff059f5b7995c909bb7f3e3729fa5342a83be0e",
-  "sizeBytes": 44990668,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.22/app-debug.apk",
+  "sha256": "45f3993039892e1e97567c271f06fee2b8e4e6f0326b1abc0877bc729e615feb",
+  "sizeBytes": 45001189,
   "changelog": [
     "新增冒险托管",
     "补全冒险小关卡头像显示",
+    "修复每日特训bug，每日修炼bug，添加虚圈设置关卡避开5v5开关",
     "如有bug请在脚本群1016141364反馈",
     "目前脚本只缺鬼道功能",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"

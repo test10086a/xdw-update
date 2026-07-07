@@ -1,10 +1,10 @@
 {
-  "versionCode": 312,
-  "versionName": "3.12",
+  "versionCode": 313,
+  "versionName": "3.13",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/V3.12/app-debug.apk",
-  "sha256": "364b0e46c8edcb7c0a8f9777d218136c63f1f9eb007f0ddd8bac9341205ea13a",
-  "sizeBytes": 44786716,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.13/app-debug.apk",
+  "sha256": "18b7ff9db2d3c7afaf8d17b7fda3e606c0d016877e65a82dade4283f9dee2620",
+  "sizeBytes": 44787377,
   "changelog": [
     "新增4v4投注，修复寻宝消耗元宝统计异常",
     "如有bug请在脚本群1016141364反馈",

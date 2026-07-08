@@ -1,14 +1,14 @@
 {
-  "versionCode": 333,
-  "versionName": "3.33",
+  "versionCode": 339,
+  "versionName": "3.39",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.33/app-debug.apk",
-  "sha256": "e78510397c86ce761a26bd341fbbdfd7f6a5b7a50ee0631a00346d942af6a131",
-  "sizeBytes": 45116908,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.39/app-debug.apk",
+  "sha256": "9c3a17fd4fea64149119c904f4bb5ce6446fd8691b9a80ed0206bf5e02cbf539",
+  "sizeBytes": 45135606,
   "changelog": [
-    "新增鬼道托管",
+    "新增冒险速战重置按钮",
     "目前已接入全部刚需功能",
-    "优化洗点速度，优化冒险托管速度",
+    "优化洗点逻辑，修复4v4投注列表不刷新的bug",
     "如有bug请在脚本群1016141364反馈",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
   ]

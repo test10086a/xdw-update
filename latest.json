@@ -1,15 +1,14 @@
 {
-  "versionCode": 343,
-  "versionName": "3.43",
+  "versionCode": 346,
+  "versionName": "3.46",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.43/app-debug.apk",
-  "sha256": "3a3be021afaa08c372dbac7681e2c8dd2c575ca7e1778a1c0b9286de7d8df892",
-  "sizeBytes": 45184210,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.46/app-debug.apk",
+  "sha256": "65ad8a731cd23e31794c770b67443b67730a22bc109e21e2cff28f7748fea47c",
+  "sizeBytes": 45265196,
   "changelog": [
-    "新增冒险速战重置按钮",
-    "新增精炼材料（虚圈）关卡一键挑战（入口在日常托管界面）",
+    "新增装备相关功能（暂时只支持装备熔炼）",
+    "托管界面/日常托管支持9宫格模式显示",
     "目前已接入全部刚需功能",
-    "优化洗点逻辑，修复4v4投注列表不刷新的bug",
     "如有bug请在脚本群1016141364反馈",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
   ]

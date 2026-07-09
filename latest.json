@@ -1,14 +1,14 @@
 {
-  "versionCode": 346,
-  "versionName": "3.46",
+  "versionCode": 364,
+  "versionName": "3.64",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.46/app-debug.apk",
-  "sha256": "65ad8a731cd23e31794c770b67443b67730a22bc109e21e2cff28f7748fea47c",
-  "sizeBytes": 45265196,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.64/app-debug.apk",
+  "sha256": "ee4dd58b59c0381a0becf0999819d4d148e869c5abc583757ae698e24311664a",
+  "sizeBytes": 46876111,
   "changelog": [
-    "新增装备相关功能（暂时只支持装备熔炼）",
-    "托管界面/日常托管支持9宫格模式显示",
-    "目前已接入全部刚需功能",
+    "更新接入功能",
+    "更新",
+    "更新",
     "如有bug请在脚本群1016141364反馈",
     "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
   ]

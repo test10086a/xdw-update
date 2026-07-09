@@ -1,10 +1,10 @@
 {
-  "versionCode": 341,
-  "versionName": "3.41",
+  "versionCode": 343,
+  "versionName": "3.43",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.41/app-debug.apk",
-  "sha256": "4214334147ccf7db7c5bc8432ae88e270b6be9ba419f565985485c73a5cfa145",
-  "sizeBytes": 45171865,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.43/app-debug.apk",
+  "sha256": "3a3be021afaa08c372dbac7681e2c8dd2c575ca7e1778a1c0b9286de7d8df892",
+  "sizeBytes": 45184210,
   "changelog": [
     "新增冒险速战重置按钮",
     "新增精炼材料（虚圈）关卡一键挑战（入口在日常托管界面）",

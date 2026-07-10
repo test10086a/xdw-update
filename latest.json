@@ -1,10 +1,10 @@
 {
-  "versionCode": 364,
-  "versionName": "3.64",
+  "versionCode": 365,
+  "versionName": "3.65",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.64/app-debug.apk",
-  "sha256": "ee4dd58b59c0381a0becf0999819d4d148e869c5abc583757ae698e24311664a",
-  "sizeBytes": 46876111,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.65/app-debug.apk",
+  "sha256": "1a45c697eaa9484faa3203188f481888f7880494d53e16c1b334f8561e07c9fa",
+  "sizeBytes": 46876893,
   "changelog": [
     "更新接入功能",
     "更新",

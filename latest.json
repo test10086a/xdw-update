@@ -1,12 +1,12 @@
 {
-  "versionCode": 365,
-  "versionName": "3.65",
+  "versionCode": 392,
+  "versionName": "3.92",
   "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.65/app-debug.apk",
-  "sha256": "1a45c697eaa9484faa3203188f481888f7880494d53e16c1b334f8561e07c9fa",
-  "sizeBytes": 46876893,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v3.92/app-debug.apk",
+  "sha256": "1a9201c763e2a2874b867133bc82f61b57152dafdcb58fa2044c89d6caf36776",
+  "sizeBytes": 47230081,
   "changelog": [
-    "更新接入功能",
+    "新增一键全托管日常功能",
     "更新",
     "更新",
     "如有bug请在脚本群1016141364反馈",

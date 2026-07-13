@@ -1,15 +1,16 @@
 {
-  "versionCode": 401,
-  "versionName": "4.01",
-  "force": true,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.01/app-debug.apk",
-  "sha256": "48238f033bd608c6ba3abe6850e75e9cd8ddbe91c72f49ca96ee3bad705e7125",
-  "sizeBytes": 47369161,
-  "changelog": [
-    "新增一键全托管日常功能",
-    "新增队员属性，支持查看队员详细属性 不用再掏计算机算闪避了",
-    "优化一键日常虚圈闯关速度",
-    "如有bug请在脚本群1016141364反馈",
-    "如果更新速度过慢请下载脚本群文件里的魔法神梯打开后再更新"
+  "versionCode": 414,
+  "versionName": “4.14”,
+  "minSupportedVersionCode": 414,
+  "force": false,
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.14/app-debug.apk",
+  "apkUrls": [
+    "https://github.com/test10086a/xdw-update/releases/download/v4.14/app-debug.apk",
+    ""
+  ],
+  "sha256": "9d2637bf1538afe0f387fb19c195c5bab1558d51d939277eca57a43a3f57acca",
+  "sizeBytes": 60153055,
+ "changelog": [
+    "新增洗负功能",
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "versionCode": 414,
-  "versionName": “4.14”,
-  "minSupportedVersionCode": 414,
+  "versionCode": 415,
+  "versionName": “4.15”,
+  "minSupportedVersionCode": 415,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.14/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.15/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.14/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v4.15/app-debug.apk",
     ""
   ],
-  "sha256": "9d2637bf1538afe0f387fb19c195c5bab1558d51d939277eca57a43a3f57acca",
-  "sizeBytes": 60153055,
+  "sha256": "34979da62596ced9efa8371579bb5b76ab780d54338fc7e1d9e1075b49a815fb",
+  "sizeBytes": 60153529,
  "changelog": [
     "新增洗负功能",
   ]

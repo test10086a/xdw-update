@@ -1,15 +1,15 @@
 {
-  "versionCode": 424,
-  "versionName": 4.24,
-  "minSupportedVersionCode": 424,
+  "versionCode": 427,
+  "versionName": 4.27,
+  "minSupportedVersionCode": 427,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.24/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.27/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.24/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v4.27/app-debug.apk",
     ""
   ],
-  "sha256": "21dd64a1f280203d52706db1b0e3a24df0be3d3f0eeded22c3c7d5a0c68cc952",
-  "sizeBytes": 59921928,
+  "sha256": "47735d3e71f3628f49157fad934b89f4d30c8673d47f4aa29a4e8af361e6629b",
+  "sizeBytes": 60310359,
  "changelog": [
     "优化洗点熄屏问题",
   ]

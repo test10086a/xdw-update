@@ -1,16 +1,16 @@
 {
-  "versionCode": 416,
-  "versionName": 4.16,
-  "minSupportedVersionCode": 415,
+  "versionCode": 424,
+  "versionName": 4.24,
+  "minSupportedVersionCode": 424,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.16/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.24/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.16/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v4.24/app-debug.apk",
     ""
   ],
-  "sha256": "0133c27cdaaea3f279bf2158c83bddbd8941b80c3a3646cb2f9c8827676381ed",
-  "sizeBytes": 60154285,
+  "sha256": "21dd64a1f280203d52706db1b0e3a24df0be3d3f0eeded22c3c7d5a0c68cc952",
+  "sizeBytes": 59921928,
  "changelog": [
-    "新增洗负功能",
+    "优化洗点熄屏问题",
   ]
 }

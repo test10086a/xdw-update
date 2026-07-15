@@ -1,16 +1,17 @@
 {
-  "versionCode": 427,
-  "versionName": 4.27,
-  "minSupportedVersionCode": 427,
+  "versionCode": 450,
+  "versionName": 4.50,
+  "minSupportedVersionCode": 450,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.27/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.50/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.27/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v4.50/app-debug.apk",
     ""
   ],
-  "sha256": "47735d3e71f3628f49157fad934b89f4d30c8673d47f4aa29a4e8af361e6629b",
-  "sizeBytes": 60310359,
+  "sha256": "8003c0b20e1c99533ac9bb0de03991349fa12edd96536db42959b562a4b05fcf",
+  "sizeBytes": 70587817,
  "changelog": [
-    "优化洗点熄屏问题",
+    "增加蓝染手动模式/抢击杀功能",
+    "增加洗负平移，增加存在负值洗干逻辑，优化洗负",
   ]
 }

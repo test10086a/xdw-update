@@ -1,17 +1,18 @@
 {
-  "versionCode": 487,
-  "versionName": 4.87,
-  "minSupportedVersionCode": 487,
+  "versionCode": 489,
+  "versionName": 4.89,
+  "minSupportedVersionCode": 489,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.87/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.89/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.87/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v4.89/app-debug.apk",
     ""
   ],
-  "sha256": "5f37350235740e0e2438a2f7419d8c609b33e78a1de415c15630d70b2a3d5b49",
-  "sizeBytes": 73709097,
+  "sha256": "5ce545f3989fbc0e1858d143d863f874b1da4b09c443ffe4312f815a5a60a183",
+  "sizeBytes": 73731222,
  "changelog": [
-    "增加蓝染后台托管功能",
+    "增加蓝染后台托管抢击杀功能",
     "新增多角色同时洗点功能",
+    "加入跨服竞技场功能，修复冒险通关关卡不显示新关卡bug",
   ]
 }

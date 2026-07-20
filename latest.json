@@ -1,20 +1,20 @@
 {
-  "versionCode": 494,
-  "versionName": 4.94,
-  "minSupportedVersionCode": 494,
+  "versionCode": 511,
+  "versionName": 5.11,
+  "minSupportedVersionCode": 511,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v4.94/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v5.11/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v4.94/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v5.11/app-debug.apk",
     ""
   ],
-  "sha256": "127eff46fba3375c4deca198b972d559ea4717b9df09754b956230cf3e4efd13",
-  "sizeBytes": 73749652,
+  "sha256": "c29f6e89f6ac903777a446b5578f0c865514d276c2e043112fe69e795a7ff1ed",
+  "sizeBytes": 74442353,
  "changelog": [
     "增加蓝染后台托管抢击杀功能",
     "新增多角色同时洗点功能",
     "加入跨服竞技场功能，修复冒险通关关卡不显示新关卡bug",
     "优化洗干流程不需要再设置阈值了，选择要保留的属性即可",
-    "优化一键换阵，提升一键换阵速度",
+    "优化一键换阵，提升一键换阵速度,新增好多功能",
   ]
 }

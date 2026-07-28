@@ -1,16 +1,17 @@
 {
-  "versionCode": 551,
-  "versionName": 5.51,
-  "minSupportedVersionCode": 551,
+  "versionCode": 553,
+  "versionName": 5.53,
+  "minSupportedVersionCode": 553,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v5.51/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v5.53/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v5.51/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v5.53/app-debug.apk",
     ""
   ],
-  "sha256": "c90d947e8cb6eed4533e65695fd814b364d7675bb23aa8845a01a8eb47033379",
-  "sizeBytes": 81747225,
+  "sha256": "10f4cddbabedbc99d693a40dfb284d37165a68908300a4d2a12d6ca67a6b21d8",
+  "sizeBytes": 81761488,
  "changelog": [
     "增加许多功能优化许多功能",
+    "在线更新卡的在脚本群里群文件下载最新文件覆盖安装",
   ]
 }

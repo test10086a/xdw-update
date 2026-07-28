@@ -1,15 +1,15 @@
 {
-  "versionCode": 529,
-  "versionName": 5.29,
-  "minSupportedVersionCode": 529,
+  "versionCode": 551,
+  "versionName": 5.51,
+  "minSupportedVersionCode": 551,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v5.29/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v5.51/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v5.29/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v5.51/app-debug.apk",
     ""
   ],
-  "sha256": "a7b31a7efa0765ab0cf1b64765e869b9f26942cfa0b4469be86b44d4d49dc78c",
-  "sizeBytes": 76988673,
+  "sha256": "c90d947e8cb6eed4533e65695fd814b364d7675bb23aa8845a01a8eb47033379",
+  "sizeBytes": 81747225,
  "changelog": [
     "增加许多功能优化许多功能",
   ]

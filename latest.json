@@ -1,17 +1,17 @@
 {
-  "versionCode": 659,
-  "versionName": 6.59,
-  "minSupportedVersionCode": 659,
+  "versionCode": 686,
+  "versionName": 6.86,
+  "minSupportedVersionCode": 686,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v6.59/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v6.86/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v6.59/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v6.86/app-debug.apk",
     ""
   ],
-  "sha256": "75923caf0df2814f7aaf6cfaae21eba6741ec47a416903430b6a22b047072c07",
-  "sizeBytes": 69132046,
+  "sha256": "26b79df26d97f68a015b3f374fe4d1f6752c50161e845e154a61b5ab59f54853",
+  "sizeBytes": 70475831,
  "changelog": [
-    "UI重构优化各种功能，优化流畅度，优化apk体积",
+    "在脚本群里下载最新脚本覆盖安装",
     "在线更新卡的在脚本群里群文件下载最新文件覆盖安装",
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "versionCode": 6118,
-  "versionName": 6.118,
-  "minSupportedVersionCode": 6118,
+  "versionCode": 6119,
+  "versionName": 6.119,
+  "minSupportedVersionCode": 6119,
   "force": false,
-  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v6.118/app-debug.apk",
+  "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v6.119/app-debug.apk",
   "apkUrls": [
-    "https://github.com/test10086a/xdw-update/releases/download/v6.118/app-debug.apk",
+    "https://github.com/test10086a/xdw-update/releases/download/v6.119/app-debug.apk",
     ""
   ],
-  "sha256": "ecbc18f6f08207b07dcbaa6f8379d76e8ce46579bac65e51b21cc6494c6ccb95",
-  "sizeBytes": 72607776,
+  "sha256": "4cf925a822b7cb3851db3c5da2564b8666ff13c4271fbe5d172330bc7f68918c",
+  "sizeBytes": 72272829,
  "changelog": [
     "在脚本群里下载最新脚本覆盖安装",
     "在线更新卡的在脚本群里群文件下载最新文件覆盖安装",

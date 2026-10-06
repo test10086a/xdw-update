@@ -1,6 +1,6 @@
 {
-  "versionCode": 6120
-  "versionName": 6.120,
+  "versionCode": 6120,
+  "versionName": "6.120",
   "minSupportedVersionCode": 6120,
   "force": false,
   "apkUrl": "https://github.com/test10086a/xdw-update/releases/download/v6.120/app-debug.apk",
@@ -10,8 +10,8 @@
   ],
   "sha256": "440ee2809a027b7ba720191eb09de685d9d1b185122a75dd176bae7921cee8fe",
   "sizeBytes": 76417422,
- "changelog": [
+  "changelog": [
     "在脚本群里下载最新脚本覆盖安装",
-    "在线更新卡的在脚本群里群文件下载最新文件覆盖安装",
+    "在线更新卡的在脚本群里群文件下载最新文件覆盖安装"
   ]
 }
